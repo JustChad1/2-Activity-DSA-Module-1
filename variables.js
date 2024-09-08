@@ -11,7 +11,7 @@ let gender = 'Male';
 let TwitterHandle = '@Richard66118818';
 
 // Log all the variables to the console
-console.log('What is your name? ' name);
-console.log('What do you wanna become in your life? ' whatDoYouWannaBecomeInYourLife);
-console.log('Are you Male or Female? ' gender);
-console.log('Twitter Handle' TwitterHandle);
+console.log('What is your Name? ', name);
+console.log('What do you wanna become in your life? ',whatDoYouWannaBecomeInYourLife);
+console.log('Are you Male or Female? ', gender);
+console.log('My Twitter: ', TwitterHandle);
